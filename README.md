@@ -9,4 +9,4 @@ Please preserve sorted order (by first name).
 - Paul Krishnamurthy https://github.com/paulKr
 - Rikin Katyal https://github.com/rikinkatyal
 - Yuri Chernyak https://github.com/yurichernyak
-
+- Roman Seviaryn https://github.com/romanumerals
